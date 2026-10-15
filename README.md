@@ -10,7 +10,7 @@ com seu amigo Chuvisco Félix.
 
 ## Minha função
 Único programador do projeto (trabalho de equipe da faculdade – Design de Games,
-Anhembi Morumbi, 2024). Arte e som: [nomes da equipe].
+Anhembi Morumbi, 2024). Arte e som: Killer Katz.
 
 ## Destaques técnicos
 - **Controle em primeira pessoa** com CharacterController: stamina, corrida e agachar.
