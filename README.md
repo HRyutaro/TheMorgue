@@ -1,7 +1,5 @@
 # The Morgue
 
-![gameplay](docs/gameplay.gif)
-
 Jogo de terror e sobrevivência em primeira pessoa. Nick Siberian, um investigador
 particular, entra no necrotério fechado da cidade para descobrir o que aconteceu
 com seu amigo Chuvisco Félix.
